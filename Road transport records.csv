@@ -1,0 +1,12 @@
+road_id,length,numberof_bends,traffic_volume,accident_risk
+140,small,10,low,no
+141,small,20,low,yes
+142,small,10,low,no
+143,medium,30,average,yes
+144,medium,40,average,no
+145,medium,30,average,yes
+146,medium,30,average,yes
+147,big,50,high,yes
+148,big,60,high,no
+149,big,60,high,no
+150,big,50,high,yes

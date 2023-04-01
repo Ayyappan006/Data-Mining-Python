@@ -1,0 +1,11 @@
+year ,company,types,placed
+old,yes,software,yes
+old,no,software,yes
+old,no,hardware,yes
+middle,yes,hardware,yes
+middle,yes,software,yes
+middle,no,software,no
+middle,no,hardware,no
+new,yes,hardware,no
+new,no,software,no
+new,no,software,no

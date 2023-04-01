@@ -1,0 +1,16 @@
+1,2,3,4,5,6,7,8,9
+car,bike,van,lorry,ambulance,crane,tractor,rickshaw,bus
+car,bike,,lorry,,,tractor,,bus
+car,bike,van,,ambulance,crane,,rickshaw,
+car,bike,van,,,,tractor,,bus
+car,,van,,,,tractor,rickshaw,bus
+car,,van,lorry,ambulance,crane,,rickshaw,bus
+car,bike,,,,crane,tractor,,
+car,bike,,lorry,ambulance,,,rickshaw,bus
+car,bike,van,,ambulance,,,rickshaw,bus
+car,bike,,,,,,rickshaw,bus
+car,bike,,,ambulance,,tractor,,bus
+car,bike,,,,crane,tractor,rickshaw,bus
+,,van,lorry,,crane,,,bus
+,,,lorry,ambulance,crane,tractor,rickshaw,bus
+car,bike,,lorry,,crane,tractor,rickshaw,bus
